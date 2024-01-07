@@ -1,4 +1,4 @@
-![image](./assets/estacio.png)
+![image](./assets/images/estacio.png)
 
 **Nome:** Jonathan Araujo - 202205178111@alunos.estacio.br\
 **Curso:** Desenvolvimento Full Stack\
@@ -25,5 +25,5 @@ detalhadas sobre a localização e as avaliações de estrelas para cada destino
 
 ## 📚 Orientações para executar o app
 
-* Recomendo utilizar o Android Studio para a execução do app. Abra o arquvio principal **lib/main.dart** e execute o run neste, com o emulador aberto no próprio studio.
-* Se estiver utilizando o VSCode para rodar este app, abra o emulador fora do editor de código e execute da mesma maneira o arquivo**lib/main.dart**.
+* Recomendo utilizar o Android Studio para a execução do app. Abra o arquvio principal **main.dart** (dentro da pasta 'lib') e execute o run neste, com o emulador aberto no próprio studio.
+* Se estiver utilizando o VSCode para rodar este app, abra o emulador fora do editor de código e execute da mesma maneira o arquivo**main.dart** (dentro da pasta 'lib').
